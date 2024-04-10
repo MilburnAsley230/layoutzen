@@ -1,6 +1,6 @@
 {
   "name": "layoutzen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,12 @@
     "node-fetch": "^2.7.0",
     "react": "^18.2.0",
     "vue": "^3.4.21",
-    "[object Object]": "^1.0.0"
+    "[object Object]": "^1.0.0",
+    "vizify": "^1.0.0",
+    "chartinator": "^1.0.0",
+    "themify": "^1.0.0",
+    "layoutify": "^1.0.0",
+    "flexify": "^1.0.0",
+    "stylegen": "^1.0.0"
   }
 }
